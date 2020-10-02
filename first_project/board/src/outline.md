@@ -4,7 +4,7 @@ Job :
     - job nature
     - job description
     - published at
-    - Vacancy
+    - available_positions
     - salary
     - category
     - experience
